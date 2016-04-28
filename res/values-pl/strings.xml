@@ -16,7 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">הגדרות נעילת MOD</string>
-  <string name="type_experience">חוויה</string>
-  <string name="type_event">אירוע</string>
+  <string name="app_title">Ustawienia MOD Lock</string>
+  <string name="type_experience">Doświadczenie</string>
+  <string name="type_event">Zdarzenie</string>
+  <string name="lockscreen_wallpaper_title">Statyczna tapeta</string>
 </resources>
