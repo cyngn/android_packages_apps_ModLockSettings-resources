@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_title">MOD Lock Settings</string>
+    <string name="app_title">Lock Screen Mod Settings</string>
     <string name="type_experience">Experience</string>
     <string name="type_event">Event</string>
 
