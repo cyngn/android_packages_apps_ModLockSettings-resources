@@ -16,8 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">Nastavitve za zaklepanje MOD</string>
+  <string name="app_title">Nastavitve modifikacij na zaklenjenem zaslonu</string>
   <string name="type_experience">Izkušnja</string>
   <string name="type_event">Dogodek</string>
   <string name="lockscreen_wallpaper_title">Statična slika ozadja</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Modifikacije na zaklenjenem zaslonu</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Omogočite in nastavite modifikacije na zaklenjenem zaslonu</string>
 </resources>

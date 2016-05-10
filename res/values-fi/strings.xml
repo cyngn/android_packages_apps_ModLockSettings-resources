@@ -16,8 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">MOD lukitusasetukset</string>
+  <string name="app_title">Lukitusnäytön Modin asetukset</string>
   <string name="type_experience">Kokemus</string>
   <string name="type_event">Tapahtuma</string>
   <string name="lockscreen_wallpaper_title">Staattinen taustakuva</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Lukitusnäytön Modit</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Ota lukitusnäytön modit käyttöön tai muokkaa sitä</string>
 </resources>

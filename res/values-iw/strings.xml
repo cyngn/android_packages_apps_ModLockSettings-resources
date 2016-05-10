@@ -16,7 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">הגדרות נעילת MOD</string>
+  <string name="app_title">הגדרות תוספי מסך נעילה</string>
   <string name="type_experience">חוויה</string>
   <string name="type_event">אירוע</string>
+  <string name="lockscreen_wallpaper_title">תמונת רקע סטטית</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">תוספי מסך נעילה</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">הפעל והגדר את תוספי מסך הנעילה</string>
 </resources>

@@ -16,8 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">Impostazioni MOD Lock</string>
+  <string name="app_title">Impostazioni Mod per schermata di blocco</string>
   <string name="type_experience">Esperienza</string>
   <string name="type_event">Evento</string>
   <string name="lockscreen_wallpaper_title">Sfondo statico</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mod per schermata di blocco</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Attiva e configura le Mod per la schermata di blocco</string>
 </resources>

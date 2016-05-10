@@ -16,6 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">\"MOD Lock\"-Einstellungen</string>
+  <string name="app_title">Einstellungen für Bildschirmsperren-Mod</string>
+  <string name="type_experience">Erfahrung</string>
+  <string name="type_event">Ereignis</string>
   <string name="lockscreen_wallpaper_title">Statischer Hintergrund</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Bildschirmsperren-Mods</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Bildschirmsperren-Mods aktivieren und konfigurieren</string>
 </resources>

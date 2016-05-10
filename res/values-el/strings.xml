@@ -16,8 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">Ρυθμίσεις κλειδώματος MOD</string>
+  <string name="app_title">Ρυθμίσεις Mod Οθόνης Κλειδώματος</string>
   <string name="type_experience">Εμπειρία</string>
   <string name="type_event">Συμβάν</string>
   <string name="lockscreen_wallpaper_title">Στατική ταπετσαρία</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mods Οθόνης Κλειδώματος</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Ενεργοποιήστε και ρυθμίστε τα mods οθόνης κλειδώματος</string>
 </resources>

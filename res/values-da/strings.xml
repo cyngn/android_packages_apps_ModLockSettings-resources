@@ -19,4 +19,6 @@
   <string name="type_experience">Erfaring</string>
   <string name="type_event">Begivenhed</string>
   <string name="lockscreen_wallpaper_title">Statisk baggrund</string>
+  <!-- Live lock screen title -->
+  <!-- Live lock screen summary -->
 </resources>

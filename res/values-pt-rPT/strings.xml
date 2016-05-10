@@ -16,8 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">Definições de Bloqueio MOD</string>
+  <string name="app_title">Definições do Mod do Ecrã de Bloqueio</string>
   <string name="type_experience">Experiência</string>
   <string name="type_event">Evento</string>
   <string name="lockscreen_wallpaper_title">Imagem de fundo estática</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mods do Ecrã de Bloqueio</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Ativar e configurar mods do ecrã de bloqueio</string>
 </resources>

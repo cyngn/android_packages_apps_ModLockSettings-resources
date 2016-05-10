@@ -16,8 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">Configuració del bloqueig MOD</string>
+  <string name="app_title">Configuració del Mod de la pantalla de bloqueig</string>
   <string name="type_experience">Experiència</string>
   <string name="type_event">Esdeveniment</string>
   <string name="lockscreen_wallpaper_title">Fons de pantalla estàtic</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mods de la pantalla de bloqueig</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Habilita i configura els mods de la pantalla de bloqueig</string>
 </resources>

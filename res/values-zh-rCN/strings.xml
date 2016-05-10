@@ -16,8 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_title">MOD 锁屏设置</string>
+  <string name="app_title">锁屏模块设置</string>
   <string name="type_experience">体验</string>
   <string name="type_event">事件</string>
   <string name="lockscreen_wallpaper_title">静态壁纸</string>
+  <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">锁屏模块</string>
+  <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">启用与配置锁屏模块</string>
 </resources>
