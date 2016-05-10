@@ -16,9 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">การตั้งค่าชุดปลั๊กอินหน้าจอล็อค</string>
   <string name="type_experience">ประสบการณ์</string>
   <string name="type_event">กิจกรรม</string>
   <string name="lockscreen_wallpaper_title">พื้นหลังคงที่</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">ชุดปลั๊กอินหน้าจอล็อค</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">เปิดใช้งานและกำหนดค่าชุดปลั๊กอินหน้าจอล็อค</string>
 </resources>
