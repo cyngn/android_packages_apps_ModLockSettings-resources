@@ -25,5 +25,12 @@
     <!-- Live lock screen title -->
     <string name="live_lock_screen_title">Lock Screen Mods</string>
     <!-- Live lock screen summary -->
-    <string name="live_lock_screen_summary">Enable and configure lock screen mods</string>
+    <string name="live_lock_screen_summary">Enable and configure lock screen Mods</string>
+
+    <!-- LLS tutorial strings -->
+    <string name="footer_text_welcome">Swipe left for lock screen Mods</string>
+    <string name="footer_text_interacting">Swipe right from left edge for notifications</string>
+
+    <string name="body_header">Lock Screen Mods</string>
+    <string name="body_text">Lock screen Mods turn your ordinary Android lock screen into an interactive experience.  Starting with Twitter, we will work with the brands you love to help you discover new content.</string>
 </resources>
