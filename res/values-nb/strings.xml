@@ -16,9 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Låseskjerm Mod Innstillinger</string>
   <string name="type_experience">Erfaring</string>
   <string name="type_event">Hendelse</string>
   <string name="lockscreen_wallpaper_title">Statisk bakgrunn</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Låseskjerm Mods</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Aktiver og konfigurer låseskjerm Mods</string>
+  <!-- LLS tutorial strings -->
 </resources>

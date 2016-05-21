@@ -24,4 +24,9 @@
   <string name="live_lock_screen_title">Модули на заключен екран</string>
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">Активирай и конфигурирай модулите на заключен екран</string>
+  <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Плъзнете наляво за заключване на екраните модули</string>
+  <string name="footer_text_interacting">Плъзнете отляво надясно за известия</string>
+  <string name="body_header">Модули на заключен екран</string>
+  <string name="body_text">Модулите на заключен екран ще превърнат обикновения заключен на екран в интерактивно преживяване.  Започвайки с Twitter, ние ще работим с марки, които обичате да Ви помогат да откривате ново съдържание.</string>
 </resources>

@@ -23,5 +23,5 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">ชุดปลั๊กอินหน้าจอล็อค</string>
   <!-- Live lock screen summary -->
-  <string name="live_lock_screen_summary">เปิดใช้งานและกำหนดค่าชุดปลั๊กอินหน้าจอล็อค</string>
+  <!-- LLS tutorial strings -->
 </resources>

@@ -24,4 +24,9 @@
   <string name="live_lock_screen_title">Blokeo-pantailaren Mod-ak</string>
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">Gaitu eta konfiguratu blokeo-pantailaren Mod-ak</string>
+  <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Pasatu hatza ezkerrera blokeo pantailaren Mod-entzat</string>
+  <string name="footer_text_interacting">Pasatu hatza eskumara ezkerreko ertzetik jakinarazpenentzat</string>
+  <string name="body_header">Blokeo-pantailaren Mod-ak</string>
+  <string name="body_text">Blokeo-pantailaren Mod-ek zure ohiko Android blokeo-pantaila esperientzia interaktibo bat bihurtzen dute. Twitterekin hasita, eduki berria aurkitu dezazun maite dituzun etxeekin arituko gara.</string>
 </resources>

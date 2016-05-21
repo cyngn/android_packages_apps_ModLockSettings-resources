@@ -23,5 +23,5 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Kilit Ekranı Modları</string>
   <!-- Live lock screen summary -->
-  <string name="live_lock_screen_summary">Kilit ekranı modlarını etkinleştir ve yapılandır</string>
+  <!-- LLS tutorial strings -->
 </resources>

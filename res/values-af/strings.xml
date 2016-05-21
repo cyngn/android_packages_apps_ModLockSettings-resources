@@ -23,5 +23,5 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Slotskerm Mods</string>
   <!-- Live lock screen summary -->
-  <string name="live_lock_screen_summary">Aktiveer en konfigureer slotskerm mods</string>
+  <!-- LLS tutorial strings -->
 </resources>

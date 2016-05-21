@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Zámek obrazovky MOD</string>
   <!-- Live lock screen summary -->
-  <string name="live_lock_screen_summary">Povolit a nastavit zámek obrazovky</string>
+  <string name="live_lock_screen_summary">Povolit a nastavit mody zámku obrazovky</string>
+  <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Tažením doleva pro mody zámku obrazovky</string>
+  <string name="footer_text_interacting">Tažením doprava od okraje pro oznámení</string>
+  <string name="body_header">Mody zámku obrazovky</string>
+  <string name="body_text">Mody zámku obrazovky promění obyčejnou obrazovku zámku v interaktivní zážitek. Začínáme s Twitterem, ale spolupracujeme s dalšími vámi oblíbenými značkami pro objevení nového obsahu.</string>
 </resources>

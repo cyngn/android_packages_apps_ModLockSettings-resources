@@ -23,5 +23,5 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Lukitusnäytön Modit</string>
   <!-- Live lock screen summary -->
-  <string name="live_lock_screen_summary">Ota lukitusnäytön modit käyttöön tai muokkaa sitä</string>
+  <!-- LLS tutorial strings -->
 </resources>

@@ -24,4 +24,9 @@
   <string name="live_lock_screen_title">锁屏模块</string>
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">启用与配置锁屏模块</string>
+  <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">向左滑动以显示锁屏模块</string>
+  <string name="footer_text_interacting">从屏幕左边缘向右滑动以显示通知</string>
+  <string name="body_header">锁屏模块</string>
+  <string name="body_text">锁屏模块将普通的 Android 锁屏界面变成具备交互式体验的锁屏界面。从 Twitter 开始，我们将和您喜爱的品牌一起合作，并帮助您发现更多的内容。</string>
 </resources>

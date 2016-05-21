@@ -23,5 +23,5 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Mod Layar Kunci</string>
   <!-- Live lock screen summary -->
-  <string name="live_lock_screen_summary">Aktifkan dan konfigurasi mod layar kunci</string>
+  <!-- LLS tutorial strings -->
 </resources>

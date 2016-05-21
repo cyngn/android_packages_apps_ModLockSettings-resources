@@ -24,4 +24,9 @@
   <string name="live_lock_screen_title">Modifikacije na zaklenjenem zaslonu</string>
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">Omogočite in nastavite modifikacije na zaklenjenem zaslonu</string>
+  <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Potegnite levo za modifikacije na zaklenjenem zaslonu</string>
+  <string name="footer_text_interacting">Potegnite desno od levega roba za obvestila</string>
+  <string name="body_header">Modifikacije na zakl. zaslonu</string>
+  <string name="body_text">Modifikacije na zaklenjenem zaslonu spremenijo vaš običajni zaklenjen zaslon v vzajemno izkušnjo. Začeli bomo s Twitterjem in sodelovali s priljubljenimi znamkami, da vam pomagamo odkriti novo vsebino.</string>
 </resources>

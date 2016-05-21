@@ -23,5 +23,5 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Mods de l\'écran de verrouillage</string>
   <!-- Live lock screen summary -->
-  <string name="live_lock_screen_summary">Activer et configurer les mods de l\'écran de verrouillage</string>
+  <!-- LLS tutorial strings -->
 </resources>

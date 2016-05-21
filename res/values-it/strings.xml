@@ -24,4 +24,5 @@
   <string name="live_lock_screen_title">Mod per schermata di blocco</string>
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">Attiva e configura le Mod per la schermata di blocco</string>
+  <!-- LLS tutorial strings -->
 </resources>
