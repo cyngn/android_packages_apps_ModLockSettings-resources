@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Ajustes de mods de plantalla bloqueada</string>
   <string name="type_experience">Experiencia</string>
   <string name="type_event">Evento</string>
   <string name="lockscreen_wallpaper_title">Fondo de pantalla estático</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mods de pantalla bloqueada</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Habilitar y configurar los mods de pantalla bloqueada</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Deslize a la izquierda de la pantalla para los Mods</string>
+  <string name="footer_text_interacting">Deslizar hacia la derecha desde el borde izquierdo para las notificaciones</string>
+  <string name="body_header">Mods de pantalla bloqueada</string>
+  <string name="body_text">Los Lockscreens Mods tornan tu Android ordinario en una experiencia interactiva.  A partir de Twitter, vamos a trabajar con las marcas que le encantaría ayudarle a descubrir nuevos contenidos.</string>
 </resources>

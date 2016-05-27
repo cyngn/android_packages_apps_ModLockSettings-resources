@@ -25,4 +25,8 @@
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">Aktiver og konfigurer låseskjerm Mods</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Dra til venstre for låseskjerm Mods</string>
+  <string name="footer_text_interacting">Dra fra venstre kant for varsler</string>
+  <string name="body_header">Låseskjerm Mods</string>
+  <string name="body_text">Låseskjerm Mods gjør din vanlige Android låseskjerm til en interaktiv opplevelse.  Starter med Twitter, vil vi arbeide med merkene du elsker for å hjelpe deg med å oppdage nytt innhold.</string>
 </resources>

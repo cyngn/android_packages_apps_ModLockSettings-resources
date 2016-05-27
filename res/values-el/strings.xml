@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Mods Οθόνης Κλειδώματος</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Ενεργοποιήστε και ρυθμίστε τα Mod οθόνης κλειδώματος</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Σύρετε προς τα αριστερά για Mod οθόνης κλειδώματος</string>
+  <string name="footer_text_interacting">Σύρετε προς τα δεξιά από την αριστερή άκρη για ειδοποιήσεις</string>
+  <string name="body_header">Mod Οθόνης Κλειδώματος</string>
+  <string name="body_text">Τα Mod οθόνης κλειδώματος μετατρέπουν τη συνηθισμένη οθόνη κλειδώματος του Android σε μια διαδραστική εμπειρία. Ξεκινώντας με το Twitter, θα συνεργαστούμε με τις μάρκες που αγαπάτε για να σας βοηθήσουμε να ανακαλύψετε νέο περιεχόμενο.</string>
 </resources>

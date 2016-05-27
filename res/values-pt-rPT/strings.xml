@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Mods do Ecrã de Bloqueio</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Ativar e configurar Mods do ecrã de bloqueio</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Deslize para a esquerda para aceder aos Mods do ecrã de bloqueio</string>
+  <string name="footer_text_interacting">Deslize para a direita a para aceder às notificações</string>
+  <string name="body_header">Mods do Ecrã de Bloqueio</string>
+  <string name="body_text">Os Mods do ecrã de bloqueio transformam o ecrã de bloqueio habitual do Android numa experiência interativa. Começamos com o Twitter, mas estamos a trabalhar com outras marcas que você adora para ajudá-lo a descobrir novos conteúdos.</string>
 </resources>

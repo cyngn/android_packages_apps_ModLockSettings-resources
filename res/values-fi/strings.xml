@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Lukitusnäytön Modit</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Ota lukitusnäytön modit käyttöön tai muokkaa niitä</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Pyyhkäise vasemmalle käyttääksesi lukitusnäytön Modeja</string>
+  <string name="footer_text_interacting">Pyyhkäise oikealle nähdäksesi ilmoitukset</string>
+  <string name="body_header">Lukitusnäytön Modit</string>
+  <string name="body_text">Lukitusnäytön Modit muuttavat tavallisen Androidin lukitusnäytön interaktiiviseksi kokemukseksi. Alkaen Twitteristä, työskentelemme rakastamiesi brändien kanssa auttaaksemme sinua löytämään uutta sisältöä.</string>
 </resources>
