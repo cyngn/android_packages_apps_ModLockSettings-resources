@@ -25,5 +25,8 @@
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">Bildschirmsperren-Mods aktivieren und konfigurieren</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Nach links wischen für Sperrbildschirm-Mods</string>
+  <string name="footer_text_interacting">Von der linken Bildschirmkante nach rechts wischen für Benachrichtigungen</string>
   <string name="body_header">Bildschirmsperren-Mods</string>
+  <string name="body_text">Bildschirmsperren-Mods verwandeln Ihren gewöhnlichen Sperrbildschirm in ein interaktives Erlebnis. Beginnend mit Twitter werden wir mit weiteren beliebten Marken zusammenarbeiten, um Sie neue Inhalte entdecken zu lassen.</string>
 </resources>
