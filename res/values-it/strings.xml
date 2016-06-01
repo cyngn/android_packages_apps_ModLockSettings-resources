@@ -25,4 +25,8 @@
   <!-- Live lock screen summary -->
   <string name="live_lock_screen_summary">Attiva e configura le Mod per la schermata di blocco</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Scorri verso sinistra per le mod per la schermata di blocco</string>
+  <string name="footer_text_interacting">Scorri rapidamente dal bordo sinistro per accedere alle notifiche</string>
+  <string name="body_header">Mod per schermata di blocco</string>
+  <string name="body_text">Le Mod per la schermata di blocco rendono l\'ordinaria schermata di blocco di Android un\'esperienza interattiva. Iniziando con Twitter lavoreremo con brand che ami per scoprire nuovi contenuti.</string>
 </resources>

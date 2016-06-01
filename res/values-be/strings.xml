@@ -16,7 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Налады стану экрана блакавання</string>
+  <string name="type_experience">Досвед</string>
+  <string name="type_event">Падзея</string>
+  <string name="lockscreen_wallpaper_title">Шпалера па-змаўчанні</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Розныя станы экрану блакавання</string>
   <!-- Live lock screen summary -->
   <!-- LLS tutorial strings -->
+  <string name="body_header">Розныя станы экрану блакавання</string>
 </resources>

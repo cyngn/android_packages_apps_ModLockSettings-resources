@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Indstillinger for skærmlåstilpasninger</string>
   <string name="type_experience">Erfaring</string>
   <string name="type_event">Begivenhed</string>
   <string name="lockscreen_wallpaper_title">Statisk baggrund</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Skærmlås Mods</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Aktivér og konfigurér skærmlåstilpasninger</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Stryg til venstre for skærmlåstilpasninger</string>
+  <string name="footer_text_interacting">Stryg til højre fra venstre kant for notifikationer</string>
+  <string name="body_header">Skærmlåstilpasninger</string>
+  <string name="body_text">Skærmlåstilpasninger forvandler din ordinære Android skærmlås til en interaktiv oplevelse. Startende med Twitter, vil vi arbejde med de varemærker du elsker hjælp til at finde nyt indhold med.</string>
 </resources>

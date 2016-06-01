@@ -23,5 +23,9 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Modovi Zaklj. zaslona</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Omogućite i podesite Modove zaklj. zaslona</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Potez lijevo za Modove zaklj. zaslona</string>
+  <string name="footer_text_interacting">Prijeđite prstom od lijevog ruba za obavijesti</string>
+  <string name="body_header">Modovi Zaklj. zaslona</string>
 </resources>

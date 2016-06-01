@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Моды экрана блокировки</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Включение и настройка модов экрана блокировки</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Проведите влево для открытия модов экрана блокировки</string>
+  <string name="footer_text_interacting">Проведите вправо от левого края для уведомлений</string>
+  <string name="body_header">Моды экрана блокировки</string>
+  <string name="body_text">Блокировка экрана Модификации превратить ваш обычный экран Android блокировки в интерактивный опыт. Начиная с Twitter, мы будем работать с брендами, которые вы любите, чтобы помочь вам обнаружить новое содержание.</string>
 </resources>
