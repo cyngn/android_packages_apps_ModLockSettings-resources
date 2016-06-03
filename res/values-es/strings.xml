@@ -16,10 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Mods de Ajustes de Pantalla de Bloqueo</string>
   <string name="type_experience">Experiencia</string>
   <string name="type_event">Evento</string>
   <string name="lockscreen_wallpaper_title">Fondo de pantalla estático</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mods de la pantalla de bloqueo</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Habilita y configura los Mods de la pantalla de bloqueo</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Desliza hacia la izquierda para ir hacia los Mods de la pantalla de bloqueo</string>
+  <string name="footer_text_interacting">Desliza hacia la derecha desde el borde izquierdo para ir hacia las notificaciones</string>
+  <string name="body_header">Mods de la pantalla de bloqueo</string>
+  <string name="body_text">Els Mods de la pantalla de bloqueo convierten tu pantalla de bloqueo ordinaria de Android en una experiencia interactiva. Comenzando con Twitter, trabajaremos con las marcas que te gustan para ayudarte a descubrir nuevos contenidos.</string>
 </resources>
