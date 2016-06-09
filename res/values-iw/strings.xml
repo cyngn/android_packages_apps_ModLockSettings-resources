@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">תוספי מסך נעילה</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">הפעל והגדר את תוספי מסך הנעילה</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">החלק שמאלה לתוספי מסך הנעילה</string>
+  <string name="footer_text_interacting">החלק ימינה מהקצה השמאלי להתראות</string>
+  <string name="body_header">תוספי מסך נעילה</string>
+  <string name="body_text">תוספי מסך הנעילה הופכים את מסך הנעילה הרגיל של האנדרואיד שלך לחוויה אינטראקטיבית. החל בטוויטר, אנו נשתף פעולה עם המותגים האהובים עליך כדי לעזור לך לגלות תכנים חדשים.</string>
 </resources>
