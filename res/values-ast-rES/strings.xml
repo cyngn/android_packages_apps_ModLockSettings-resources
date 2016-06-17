@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Mods de pantalla de bloquéu</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Habilita y configura los Mods de pantalla de bloquéu</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Esliza haza la drecha pa los mods de pantalla de bloquéu</string>
+  <string name="footer_text_interacting">Esliza dende\'l berbesu drechu fasta l\'esquierdu p\'avisos</string>
+  <string name="body_header">Mods de pantalla de bloquéu</string>
+  <string name="body_text">Los mods de pantalla de bloquéu faen de la to pantalla de bloquéu ordinaria d\'Android nuna esperiencia interactiva. Entamando con Twitter, trabayaremos coles marques qu\'ames p\'ayudate a descubrir conteníu nuevu.</string>
 </resources>

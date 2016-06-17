@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Режими закључаног екрана</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Омогући и подеси режиме закључаног екрана</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Замахни на лево за режиме закључаног екрана</string>
+  <string name="footer_text_interacting">Замахни од леве ка десној ивици за обавештења</string>
+  <string name="body_header">Режими закључаног екрана</string>
+  <string name="body_text">Режими закључаног екрана претварају обичан Андроид закључани екран у интерактивно искуство. Почевши са Twitter-ом ми ћемо радити са брендовима које волите да помогнемо откривање нових садржаја.</string>
 </resources>
