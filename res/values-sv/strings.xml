@@ -21,4 +21,5 @@
   <!-- Live lock screen title -->
   <!-- Live lock screen summary -->
   <!-- LLS tutorial strings -->
+  <string name="body_header">Låsskärmsmodifieringar</string>
 </resources>
