@@ -18,6 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="type_experience">Erfarenhet</string>
   <string name="type_event">Händelse</string>
+  <string name="lockscreen_wallpaper_title">Statisk bakgrundsbild</string>
   <!-- Live lock screen title -->
   <!-- Live lock screen summary -->
   <!-- LLS tutorial strings -->
