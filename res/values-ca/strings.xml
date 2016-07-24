@@ -26,7 +26,7 @@
   <string name="live_lock_screen_summary">Habilita i configura els Mods de la pantalla de bloqueig</string>
   <!-- LLS tutorial strings -->
   <string name="footer_text_welcome">Llisca cap a l\'esquerra per anar cap als Mods de la pantalla de bloqueig</string>
-  <string name="footer_text_interacting">Llisca cap a la de dreta des de lavora esquerra per anar cap a les notificacions</string>
+  <string name="footer_text_interacting">Llisca cap a la dreta des de la vora esquerra per anar cap a les notificacions</string>
   <string name="body_header">Mods de la pantalla de bloqueig</string>
   <string name="body_text">Els Mods de la pantalla de bloqueig converteixen la teva pantalla de bloqueig ordinària d\'Android en una experiència interactiva.  Començant amb Twitter, treballarem amb les marques que t\'agraden per ajudar-te a descobrir nous continguts.</string>
 </resources>
