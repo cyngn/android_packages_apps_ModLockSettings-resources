@@ -16,7 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Zárképernyő mod beállítása</string>
+  <string name="type_experience">Tapasztalat</string>
+  <string name="type_event">Esemény</string>
+  <string name="lockscreen_wallpaper_title">Statikus háttérkép</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Zárképernyő modok</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Zárképernyő modok engedélyezése és beállítása</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Csúsztasson balra a zárképernyő modokhoz</string>
+  <string name="footer_text_interacting">Csúsztasson jobbra a bal éltől az értesítésekért</string>
+  <string name="body_header">Zárképernyő modok</string>
+  <string name="body_text">Zárképernyő Modok egy interaktív élményre cseréli Android képernyő lezárását.  Kezdve a Twitter-rel, közkedvelt márkákkal fogunk dolgozni, hogy segítsen felfedezni az új tartalmat.</string>
 </resources>

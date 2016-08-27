@@ -16,9 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="lockscreen_wallpaper_title">Statische achtergrond</string>
   <!-- Live lock screen title -->
   <!-- Live lock screen summary -->
   <!-- LLS tutorial strings -->
-  <string name="footer_text_interacting">Veeg vanaf de linkerrand voor meldingen</string>
 </resources>
