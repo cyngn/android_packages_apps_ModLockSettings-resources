@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_experience">Ervaring</string>
+  <string name="type_event">Afspraak</string>
   <string name="lockscreen_wallpaper_title">Statische achtergrond</string>
   <!-- Live lock screen title -->
   <!-- Live lock screen summary -->

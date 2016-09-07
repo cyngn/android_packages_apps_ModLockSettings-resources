@@ -22,4 +22,5 @@
   <!-- Live lock screen title -->
   <!-- Live lock screen summary -->
   <!-- LLS tutorial strings -->
+  <string name="footer_text_interacting">Przesuń palcem w prawo od lewej krawędzi, aby zobaczyć powiadomienia</string>
 </resources>
