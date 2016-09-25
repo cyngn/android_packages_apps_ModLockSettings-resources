@@ -16,11 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Instellingen Mods vergrendelingsscherm</string>
   <string name="type_experience">Ervaring</string>
   <string name="type_event">Afspraak</string>
   <string name="lockscreen_wallpaper_title">Statische achtergrond</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mods vergrendelingsscherm</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Mods vergrendelingsscherm inschakelen en instellen</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Veeg naar links voor Mods vergrendelingsscherm</string>
   <string name="footer_text_interacting">Veeg vanaf de linkerrand voor meldingen</string>
+  <string name="body_header">Mods vergrendelingsscherm</string>
+  <string name="body_text">Mods voor het vergrendelingsscherm maken van uw gewone Android-vergrendelingsscherm een interactieve ervaring. Eerst met Twitter, later zullen we met uw favoriete merken samenwerken om nieuwe inhoud te ontdekken.</string>
 </resources>

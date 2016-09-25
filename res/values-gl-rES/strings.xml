@@ -16,7 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">Axustes do Mod da pantalla de bloqueo</string>
+  <string name="type_experience">Experiencia</string>
+  <string name="type_event">Evento</string>
+  <string name="lockscreen_wallpaper_title">Fondo de pantalla estático</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">Mods da pantalla de bloqueo</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Activar e configurar os Mods da pantalla de bloqueo</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Esvarar á esquerda para ir aos Mods da pantalla de bloqueo</string>
+  <string name="footer_text_interacting">Esvarar á dereita dende o bordo esquerdo para ir ás notificacións</string>
+  <string name="body_header">Mods da pantalla de bloqueo</string>
+  <string name="body_text">Os Mods da pantalla de bloqueo converten nunha experiencia interactiva a túa pantalla de bloqueo ordinaria. Comezando polo Twitter, traballaremos coas marcas que máis che gustan para axudarte a descubrir novos contidos.</string>
 </resources>
