@@ -16,7 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_title">ロック画面Modの設定</string>
+  <string name="type_experience">体験</string>
+  <string name="type_event">予定</string>
+  <string name="lockscreen_wallpaper_title">固定の壁紙</string>
   <!-- Live lock screen title -->
+  <string name="live_lock_screen_title">ロック画面Mod</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">ロック画面Modを有効化または設定する</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">左にスワイプしてロック画面Modを表示します</string>
+  <string name="footer_text_interacting">左端から右にスワイプして通知を表示します</string>
+  <string name="body_header">ロック画面Mod</string>
+  <string name="body_text">ロック画面Modは普通のAndroidのロック画面をインタラクティブな体験に変化させます。新しいコンテンツを発見しやすくするために、Twitterを始めとする人気のサービスを取り込んでいきます。</string>
 </resources>

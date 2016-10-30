@@ -23,5 +23,10 @@
   <!-- Live lock screen title -->
   <string name="live_lock_screen_title">Slotskerm Mods</string>
   <!-- Live lock screen summary -->
+  <string name="live_lock_screen_summary">Aktiveer en konfigureer slotskerm Mods</string>
   <!-- LLS tutorial strings -->
+  <string name="footer_text_welcome">Vee links vir slotskerm Mods</string>
+  <string name="footer_text_interacting">Vee regs van linker rand vir kennisgewings</string>
+  <string name="body_header">Slotskerm Mods</string>
+  <string name="body_text">Slotskerm Mods laat jou gewone Android slotskerm in \'n interaktiewe ervaring verander.  Ons begin met Twitter, ons sal werk met handelsmerke wat jy van hou om nuwe inhoud te ontdek.</string>
 </resources>
